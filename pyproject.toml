@@ -17,6 +17,7 @@ zeep = "^4.2.1"
 "backports.cached-property" = "^1.0.1"
 netsuitesdk = "^2.21.0"
 xmltodict = "^0.13.0"
+memoization = "0.0.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
